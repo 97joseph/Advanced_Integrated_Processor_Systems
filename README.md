@@ -31,4 +31,4 @@ Writing
 
 Citation generator
 
-The system will have the following characteristics: a. Hardware: Raspberry Pi, Camera, WiFi module b. Software: Face recognition ML algorithm, Python, MySQL i just want you to do the written part
+The system will have the following characteristics: a. Hardware: Raspberry Pi, Camera, WiFi module b. Software: Face recognition ML algorithm, Python, MySQL
